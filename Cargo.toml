@@ -1,5 +1,5 @@
 [package]
-name = "simple-server"
+name = "hello"
 version = "0.1.0"
 authors = ["Bill Yu <han.yu@duke.edu>"]
 
